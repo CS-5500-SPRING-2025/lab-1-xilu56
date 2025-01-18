@@ -43,8 +43,10 @@ More detailed submission instructions can be found via the [lab page](https://pa
 
 ## Task 2: GitHub Tutorial (24 marks)
 
-Include screenshots as described in the [Lab 1](L1.md) file.
 ![image](https://github.com/user-attachments/assets/6c186216-c3b5-4877-8f41-153e308c4800)
+<img width="1143" alt="task2 2" src="https://github.com/user-attachments/assets/62147c97-4c9b-4968-9e0d-56ac3f6508ec" />
+
+
 
 
 ## Task 3: Lab Questions (11 marks)
