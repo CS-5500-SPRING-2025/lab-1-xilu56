@@ -66,6 +66,8 @@ A distributed version control system (DVCS) brings a local copy of the complete 
 
 Distributed version control systems help software development teams create strong workflows and hierarchies, with each developer pushing code changes to their own repository and maintainers setting a code review process to ensure only quality code merges into the main repository.
 
+source linek: https://about.gitlab.com/topics/version-control/benefits-distributed-version-control-system/
+
 ### Q3
 Working Directory is where you do your actual work—editing, creating, or deleting files on your local machine. It reflects the current state of the project as you see it on your computer.
 Staging Area is a to-do list for git to commit. It is a buffer or preparation area where you stage (add) changes you want to include in your next commit.
