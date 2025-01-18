@@ -36,7 +36,6 @@ More detailed submission instructions can be found via the [lab page](https://pa
 
 ## Task 1: Prepare your System (1 mark)
 
-Include screenshots as described in the [Lab 1](L1.md) file.
 <img width="730" alt="task1 1" src="https://github.com/user-attachments/assets/f3e99bc3-6fde-43ce-a0f5-4887c105f265" />
 <img width="732" alt="task1 2" src="https://github.com/user-attachments/assets/a83282a7-f995-45e9-a70e-bd50169a74c0" />
 <img width="731" alt="task1 3" src="https://github.com/user-attachments/assets/064a6729-d451-4e8a-845f-964a9c6c62b7" />
@@ -45,6 +44,8 @@ Include screenshots as described in the [Lab 1](L1.md) file.
 ## Task 2: GitHub Tutorial (24 marks)
 
 Include screenshots as described in the [Lab 1](L1.md) file.
+![image](https://github.com/user-attachments/assets/6c186216-c3b5-4877-8f41-153e308c4800)
+
 
 ## Task 3: Lab Questions (11 marks)
 
