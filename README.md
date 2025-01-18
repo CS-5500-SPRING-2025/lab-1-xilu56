@@ -95,5 +95,7 @@ It prevents unnecessary or sensitive files from being committed to the repositor
 
 
 ### Q1
+The video provides an overview of the Software Development Life Cycle which emphasizes its importance in software quality assurance testing. It also mentions the key phases of the Software Development Life Cycle are planning, requirement analysis, design, development, testing, deployment, and maintenance. To meet client’s expectation, every phase is crucial to ensure the quality of the final deliverables. Testing throughout the lifecycle is also important to ensure functionality and reliability.
+
 
 ### Q2
