@@ -99,3 +99,4 @@ The video provides an overview of the Software Development Life Cycle which emph
 
 
 ### Q2
+The Software Development Life Cycle is critical in software projects as it provides a structured framework that guides the development process from inception to deployment and maintenance. The team ensures system progress and maintains control of the project by following defined phases. This structured approach helps identify and mitigate risks, manage resources efficiently, and deliver products that meet user requirements and quality standards. Additionally, adhering to the Software Development Life Cycle enhances collaboration among stakeholders, promotes clear communication, and provides measurable benchmarks, which contribute to the successful completion of software projects.
