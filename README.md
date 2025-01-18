@@ -88,7 +88,8 @@ git init initializes a new Git repository in the current directory.
 #### Q4 (v)
 git log shows the commit history of the repository.
 ### Q5
-
+A .gitignore file lists patterns of files or directories that Git should ignore. These files will not be tracked or included in the repository.
+It prevents unnecessary or sensitive files from being committed to the repository.
 ## Task 4: Video Questions (4 marks)
 
 
