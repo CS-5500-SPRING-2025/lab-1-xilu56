@@ -54,28 +54,42 @@ More detailed submission instructions can be found via the [lab page](https://pa
 Include answers as described in the [Lab 1](L1.md) file:
 
 ### Q1
+Git is a piece of software. GitHub is an online SaaS service. 
+
+The key difference between Git and GitHub is that Git is a free, open source version control tool that developers install locally on their personal computers, while GitHub is a pay-for-use online service built to run Git in the cloud.
+
+source link: https://www.theserverside.com/video/Git-vs-GitHub-What-is-the-difference-between-them#:~:text=The%20key%20difference%20between%20Git,is%20an%20online%20SaaS%20service.
+
 
 ### Q2
+A distributed version control system (DVCS) brings a local copy of the complete repository to every team member’s computer, so they can commit, branch, and merge locally. The server doesn’t have to store a physical file for each branch — it just needs the differences between each commit.
+
+Distributed version control systems help software development teams create strong workflows and hierarchies, with each developer pushing code changes to their own repository and maintainers setting a code review process to ensure only quality code merges into the main repository.
 
 ### Q3
+Working Directory is where you do your actual work—editing, creating, or deleting files on your local machine. It reflects the current state of the project as you see it on your computer.
+Staging Area is a to-do list for git to commit. It is a buffer or preparation area where you stage (add) changes you want to include in your next commit.
+Repository is where git stores the committed changes which is the project's history. The repository exists locally on your machine.
 
 ### Q4
 
 #### Q4 (i)
+git clone copies an existing repository to the local machine.
 
 #### Q4 (ii)
-
+git status displays the current state of your working directory and staging area.
 #### Q4 (iii)
+git fetch retrieves updates from a remote repository but doesn’t merge them into your local repository. 
 
 #### Q4 (iv)
-
+git init initializes a new Git repository in the current directory.
 #### Q4 (v)
-
+git log shows the commit history of the repository.
 ### Q5
 
 ## Task 4: Video Questions (4 marks)
 
-Include answers as described in the [Lab 1](L1.md) file.
+
 
 ### Q1
 
